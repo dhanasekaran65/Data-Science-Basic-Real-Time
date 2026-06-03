@@ -31,8 +31,8 @@ pip install pandas numpy matplotlib seaborn
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   gh repo clone dhanasekaran65/Data-Science-Basic-Real-Time
+   cd Data-Science-Basic-Real-Time
    ```
 
 2. Place `HR-Employee-Attrition.csv` in the path referenced in the notebook.
