@@ -75,7 +75,6 @@ Pie chart showing workforce diversity.
 **5. Average salary by department**
 Bar chart comparing department-wise compensation.
 
----
 
 ## General EDA Framework
 
