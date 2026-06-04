@@ -2,8 +2,6 @@
 
 A comprehensive data visualization project that explores employee analytics data using **20 different chart types** with Python. The project covers everything from basic bar charts to advanced cluster maps, providing deep insights into salary trends, department distribution, attrition patterns, and workforce demographics.
 
----
-
 ## Project Overview
 
 | Item | Detail |
@@ -13,17 +11,12 @@ A comprehensive data visualization project that explores employee analytics data
 | **Key Insights** | Salary trends, gender distribution, department attrition, experience vs salary |
 | **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
 
----
 
 ## Project Structure
 
-```
 ├── Create_Data_Visualizations.ipynb   
 ├── employee_analytics.csv            
 └── README.md
-```
-
----
 
 ## Dataset Features
 
@@ -37,8 +30,6 @@ A comprehensive data visualization project that explores employee analytics data
 | `Experience_Years` | Years of work experience |
 | `Performance_Rating` | Performance score |
 | `Attrition` | Whether employee left (Yes/No) |
-
----
 
 ## Getting Started
 
@@ -65,7 +56,6 @@ pip install pandas numpy matplotlib seaborn
 
 > **Google Colab users:** Upload `employee_analytics.csv` to your Colab session before running.
 
----
 
 ## 20 Visualizations Covered
 
@@ -113,8 +103,6 @@ pip install pandas numpy matplotlib seaborn
 | 11 | **Heatmap** | Correlation matrix of numeric features |
 | 19 | **Cluster Map** | Clustered correlation matrix |
 
----
-
 ## Key Insights
 
 - **Salary vs Experience** — positive correlation confirmed via regression and joint plots
@@ -123,16 +111,12 @@ pip install pandas numpy matplotlib seaborn
 - **Salary Outliers** — box plot and violin plot identify high-salary anomalies
 - **Age Distribution** — histogram shows the majority age band of the workforce
 
----
-
 ## Libraries Used
 
 - [Pandas](https://pandas.pydata.org/) — data loading and manipulation
 - [NumPy](https://numpy.org/) — numerical operations
 - [Matplotlib](https://matplotlib.org/) — base chart rendering
 - [Seaborn](https://seaborn.pydata.org/) — statistical and advanced visualizations
-
----
 
 ## Learning Outcomes
 
