@@ -1,4 +1,4 @@
-# 📊 Python Data Science & Visualization Portfolio
+# 📊 Python Data Science Basic & Visualization Portfolio
 
 > A complete hands-on learning series covering Data Visualization, Trend Analysis, and Correlation Analysis using Python — built with real-world datasets.
 
@@ -7,18 +7,19 @@
 ## 🗂️ Repository Structure
 
 ```
-📦 python-data-science-portfolio
- ┣ 📓 Analyze_trends_in_datasets.ipynb
- ┣ 📓 Build_Heatmaps.ipynb
- ┣ 📓 Create_Data_Visualizations.ipynb
- ┣ 📓 Create_Scatter_Plot.ipynb
- ┣ 📓 Develop_Box_Plot.ipynb
- ┣ 📓 Generate_Histogram.ipynb
- ┣ 📓 Perform_Correlation_Analysis.ipynb
- ┣ 📄 employee_analytics.csv
- ┣ 📄 mtcars.csv
- ┣ 📄 sales_data.csv
- ┗ 📄 README.md
+📦 Data-Science-Basic-Real-Time
+ ┣ 📦Data-Visualization
+    ┣ 📓 Analyze_trends_in_datasets.ipynb
+    ┣ 📓 Build_Heatmaps.ipynb
+    ┣ 📓 Create_Data_Visualizations.ipynb
+    ┣ 📓 Create_Scatter_Plot.ipynb
+    ┣ 📓 Develop_Box_Plot.ipynb
+    ┣ 📓 Generate_Histogram.ipynb
+    ┣ 📓 Perform_Correlation_Analysis.ipynb
+    ┣ 📄 employee_analytics.csv
+    ┣ 📄 mtcars.csv
+    ┣ 📄 sales_data.csv
+    ┗ 📄 README.md
 ```
 
 ---
@@ -307,8 +308,8 @@ Correlation analysis **quantifies relationships** between variables.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/python-data-science-portfolio.git
-cd python-data-science-portfolio
+gh repo clone dhanasekaran65/Data-Science-Basic-Real-Time
+cd Data-Science-Basic-Real-Time
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn jupyter
