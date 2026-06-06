@@ -1,4 +1,4 @@
-# 📊 Python Data Science Basic & Visualization Portfolio
+# 📊 Python Data Science Basic & Visualization
 
 > A complete hands-on learning series covering Data Visualization, Trend Analysis, and Correlation Analysis using Python — built with real-world datasets.
 
