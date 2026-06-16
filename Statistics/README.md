@@ -9,12 +9,11 @@ Personal notes compiled while studying statistics for data science — covering 
 ## 📁 Repository Structure
 
 ```
-statistics-notes/
+statistics/
 ├── README.md
-└── code/
-    ├── normal_distribution_probability.py
-    ├── confidence_interval_example.py
-    └── one_sample_ttest_example.py
+├── confidence_interval_example.py
+├── normal_distribution_probability.py 
+└── problem_statement.py
 ```
 
 ## 📑 Table of Contents
