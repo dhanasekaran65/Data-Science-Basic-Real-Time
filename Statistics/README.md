@@ -54,7 +54,7 @@ Statistics splits into two broad branches.
 
 In theory, you could collect data on every single member of a population and compute statistics directly — a "brute-force" approach. In practice, reaching every individual is expensive, slow, or simply impossible, so a smaller, representative sample is used instead to make inferences about the population.
 
-The general workflow is: take a piece of the data → analyze it → apply inferential statistics methods to it → generalize the result back to the entire population. That generalization step is what makes it *inferential*.
+The general workflow is: Get the piece of the data - analyze the data - apply these inferential statistics and whatever the results we get - it applied to the entire population - That's what we call it as Inferential Statistics..
 
 **Divisions of Inferential Statistics**
 - Confidence Intervals
