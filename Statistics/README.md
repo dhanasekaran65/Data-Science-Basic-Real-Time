@@ -46,9 +46,9 @@ statistics/
 
 Statistics splits into two broad branches.
 
-**Descriptive Statistics** is used to understand the sample of data you already have. This is where exploratory data analysis (EDA) lives — calculating mean, median, mode, and standard deviation, checking for normal distribution, skewness or kurtosis, and visualizing the data from as many angles as possible.
+**Descriptive Statistics** : In order to understand more about the sample I've collected, we're getting into Descriptive Stats - EDA - Mean, Median, Mode, SD, Normal Distribution, Skewness or Kurtosis, Data Visualization - where we try analyze the sample in all possible ways.
 
-**Inferential Statistics** is used to make an *estimate* or a statement about an entire population with the help of just a sample of it.
+**Inferential Statistics** is used to make an *ESTIMATE*/ statement on the population with the help of sample.
 
 ### Why use a sample instead of the whole population?
 
@@ -111,7 +111,7 @@ Probability distributions split along the same lines as random variables:
 3. Find the probability of a pregnancy lasting less than 250 days.
 4. Find the probability that a pregnancy lasts between 265 and 280 days.
 
-**Solution** — see [`code/normal_distribution_probability.py`](code/normal_distribution_probability.py):
+**Solution** — see [`normal_distribution_probability.py`](normal_distribution_probability.py):
 
 ```python
 from scipy import stats
@@ -157,7 +157,7 @@ If multiple samples (S1, S2, S3, …) are drawn from a population and the mean o
 
 **Scenario:** A small shop records daily ice cream sales over 7 days: `[50, 52, 48, 47, 51, 53, 49]`. Estimate the average daily sales for the whole month using a 95% confidence interval.
 
-**Solution** — see [`code/confidence_interval_example.py`](code/confidence_interval_example.py):
+**Solution** — see [`confidence_interval_example.py`](confidence_interval_example.py):
 
 ```python
 import numpy as np
